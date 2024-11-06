@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  title: "Quarto Portfolio Website"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects/
+        text: Projects
+      - href: blog.qmd
+        text: Blog
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

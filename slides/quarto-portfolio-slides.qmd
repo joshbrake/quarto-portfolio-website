@@ -1,0 +1,73 @@
+---
+title: How to Make a Portfolio Website with Quarto
+format: revealjs
+output-file: index.html
+---
+
+## You need a portfolio
+
+- Credentialing
+- Proof of work
+- Do/tell distribution and luck surface area
+
+## Components of Your Portfolio Website
+
+- Home/About Me page
+- Linked resume
+- Projects Page
+
+Other optional stuff:
+
+- Blog
+
+
+## Raw Materials You Need First
+
+- Brief biographical blurb
+- Projects
+  - List of projects you've worked on
+  - A short description of the project
+  - Photos/videos
+
+## Quarto
+
+- What is Quarto?
+- Why Quarto?
+
+## Setup
+
+- Download Quarto
+- Set up Github
+- Getting your github.io site setup
+
+## The Structure of a Quarto Site
+
+- `_quarto.yml`
+- `index.qmd`
+
+## The Quarto Development Process
+
+1. Write code
+2. Preview
+3. Revise
+4. Render
+5. Publish
+
+## Buy Your Own Domain Name
+
+A personal domain is well worth your investment.
+It will cost you at least $20-40 a year, but it will give you a nice spot for your web presence and also a nice email.
+
+- Go with a .com if it's available. (could also consider .me as well)
+
+## Hosting
+
+The domain name just gives you a DNS entry but you also need a server with an IP to point that DNS entry to.
+A few options:
+
+- Self host
+- Host with a conventional web hosting company
+- Host on a VPS
+
+
+## References for Followup

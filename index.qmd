@@ -1,0 +1,23 @@
+---
+title: "E155 Portfolio"
+image: images/headshot.jpeg
+about:
+  template: jolla
+  links:
+    - icon: substack
+      text: Substack
+      href: https://joshbrake.substack.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/jbrake
+    - icon: github
+      text: Github
+      href: https://github.com/joshbrake
+
+---
+
+Josh Brake is an Assistant Professor of Engineering at [Harvey Mudd College](https://hmc.edu).
+Prior to joining the faculty at Harvey Mudd, he completed a Ph.D. and M.S. in Electrical Engineering at the California Institute of Technology and an M.S. and B.S. in Engineering with an Electrical concentration at LeTourneau University. 
+His teaching interests are in the field of engineering, with a particular focus on digital electronics, embedded systems, and optics.
+He directs the Harvey Mudd Biophotonics Lab where he and a group of talented undergraduate students leverage optics to build tools for biomedicine and optics education. He is the recipient of several external awards, including an NSF CAREER and NSF Engineering Research Initiation award. 
+When he is not in the classroom, next to the optics table, or spending time with his family, you can find him behind the keyboard typing his latest manifesto on technology, education, and human flourishing for his weekly Substack newsletter, *The Absent-Minded Professor*, which you can find at [joshbrake.substack.com](https://joshbrake.substack.com).

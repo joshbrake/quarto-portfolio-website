@@ -1,0 +1,37 @@
+---
+title: Example Project 1
+author: Josh Brake
+date: 2024-07-15
+image: ./images/e155-kit.jpeg
+description: The kit for MicroPs
+---
+
+## Project Title and Short Description
+
+## Problem Statement
+
+## Project Goals and Objectives
+
+## Process and Approach
+
+## Key Challenges
+
+## Key Features / Deliverables
+
+## Technologies and Tools Used
+
+## Team and Your Role
+
+## Design Process
+
+## Outcome / Results
+
+## Impact and Reflection
+
+## Future Improvements
+
+## Testimonials / Feedback
+
+## Project Timeline
+
+## Call to Action

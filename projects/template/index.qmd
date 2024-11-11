@@ -1,0 +1,33 @@
+---
+title: Template Project Page
+author: Josh Brake
+date: 2024-11-11
+image: images/ # A url to image here.
+description: This is a description # Short description of the project to be shown on overview page.
+---
+
+## Problem Statement
+
+## Project Goals and Objectives
+
+## Process and Approach
+
+### Key Challenges
+
+### Key Features / Deliverables
+
+### Technologies and Tools Used
+
+## Team and Your Role
+
+## Design Process
+
+## Outcome / Results
+
+## Impact and Reflection
+
+## Future Improvements
+
+## Testimonials / Feedback
+
+## Project Timeline

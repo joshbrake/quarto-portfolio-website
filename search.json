@@ -9,7 +9,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "E155 Portfolio",
+    "title": "Josh Brake",
     "section": "",
     "text": "Josh Brake is an Assistant Professor of Engineering at Harvey Mudd College. Prior to joining the faculty at Harvey Mudd, he completed a Ph.D. and M.S. in Electrical Engineering at the California Institute of Technology and an M.S. and B.S. in Engineering with an Electrical concentration at LeTourneau University. His teaching interests are in the field of engineering, with a particular focus on digital electronics, embedded systems, and optics. He directs the Harvey Mudd Biophotonics Lab where he and a group of talented undergraduate students leverage optics to build tools for biomedicine and optics education. He is the recipient of several external awards, including an NSF CAREER and NSF Engineering Research Initiation award. When he is not in the classroom, next to the optics table, or spending time with his family, you can find him behind the keyboard typing his latest manifesto on technology, education, and human flourishing for his weekly Substack newsletter, The Absent-Minded Professor, which you can find at joshbrake.substack.com."
   },
@@ -305,7 +305,7 @@
     "href": "slides/index.html#writing-a-page",
     "title": "Why You Need a Portfolio Website",
     "section": "Writing a Page",
-    "text": "Writing a Page\nAll documents in Quarto are written as Markdown. It’s an easy format for writing text. Here are a few specific formatting tips to keep in mind.\n\nHTML Heading levels # -&gt; &lt;h1&gt;, ## -&gt; &lt;h2&gt;, ### -&gt; &lt;h3&gt;,\nImages ![alt text](link)\nFigures ::: {#fig-}\nReferences\n\nFigures\nHeadings\n\nCode blocks"
+    "text": "Writing a Page\nAll documents in Quarto are written as Markdown. It’s an easy format for writing text. Here are a few specific formatting tips to keep in mind.\n\nHTML Heading levels: # -&gt; &lt;h1&gt;, ## -&gt; &lt;h2&gt;, ### -&gt; &lt;h3&gt;,\nImages: ![alt text](link)\nFigures: ::: {#fig-&lt;label-here&gt;} :::\nReferences: @fig-&lt;label-here&gt;\n\nFigures\nHeadings\n\nCode blocks: Enclose between triple backticks ``` ```"
   },
   {
     "objectID": "slides/index.html#creating-a-page-for-your-project",

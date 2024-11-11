@@ -1,5 +1,5 @@
 ---
-title: "E155 Portfolio"
+title: "Josh Brake"
 image: images/headshot.jpeg
 about:
   template: jolla
@@ -13,7 +13,6 @@ about:
     - icon: github
       text: Github
       href: https://github.com/joshbrake
-
 ---
 
 Josh Brake is an Assistant Professor of Engineering at [Harvey Mudd College](https://hmc.edu).

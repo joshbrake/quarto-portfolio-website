@@ -312,13 +312,13 @@ All documents in Quarto are written as [Markdown](https://www.markdownguide.org/
 It's an easy format for writing text.
 Here are a few specific formatting tips to keep in mind.
 
-- HTML Heading levels `# -> <h1>`,  `## -> <h2>`, `### -> <h3>`, 
-- Images `![alt text](link)`
-- Figures `::: {#fig-}`
-- References
+- HTML Heading levels: `# -> <h1>`,  `## -> <h2>`, `### -> <h3>`, 
+- Images: `![alt text](link)`
+- Figures: `::: {#fig-<label-here>} :::`
+- References: `@fig-<label-here>`
   - Figures
   - Headings
-- Code blocks
+- Code blocks: Enclose between triple backticks ` ``` ``` `
 
 ## Creating a page for your project
 

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://joshbrake.github.io/quarto-portfolio-website/blog.html</loc>
+    <lastmod>2024-11-18T18:32:16.753Z</lastmod>
+  </url>
+  <url>
+    <loc>https://joshbrake.github.io/quarto-portfolio-website/index.html</loc>
+    <lastmod>2024-11-18T18:32:16.755Z</lastmod>
+  </url>
+  <url>
+    <loc>https://joshbrake.github.io/quarto-portfolio-website/projects/index.html</loc>
+    <lastmod>2024-11-18T18:32:16.760Z</lastmod>
+  </url>
+  <url>
+    <loc>https://joshbrake.github.io/quarto-portfolio-website/projects/example-project-1/index.html</loc>
+    <lastmod>2024-11-18T18:32:16.760Z</lastmod>
+  </url>
+  <url>
+    <loc>https://joshbrake.github.io/quarto-portfolio-website/posts/first-post.html</loc>
+    <lastmod>2024-11-18T18:32:16.755Z</lastmod>
+  </url>
+  <url>
+    <loc>https://joshbrake.github.io/quarto-portfolio-website/projects/template/index.html</loc>
+    <lastmod>2024-11-18T18:32:16.760Z</lastmod>
+  </url>
+  <url>
+    <loc>https://joshbrake.github.io/quarto-portfolio-website/projects/example-project-2/index.html</loc>
+    <lastmod>2024-11-18T18:32:16.760Z</lastmod>
+  </url>
+  <url>
+    <loc>https://joshbrake.github.io/quarto-portfolio-website/slides/index.html</loc>
+    <lastmod>2024-11-18T18:32:16.799Z</lastmod>
+  </url>
+</urlset>

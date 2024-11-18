@@ -1,0 +1,387 @@
+[
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "E155 Blog",
+    "section": "",
+    "text": "Hello Quarto\n\n\n\n\n\n\nreflection\n\n\nlabreport\n\n\n\nWelcome to my Quarto portfolio\n\n\n\n\n\nAug 23, 2024\n\n\nJosh Brake\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Josh Brake",
+    "section": "",
+    "text": "Josh Brake is an Assistant Professor of Engineering at Harvey Mudd College. Prior to joining the faculty at Harvey Mudd, he completed a Ph.D. and M.S. in Electrical Engineering at the California Institute of Technology and an M.S. and B.S. in Engineering with an Electrical concentration at LeTourneau University. His teaching interests are in the field of engineering, with a particular focus on digital electronics, embedded systems, and optics. He directs the Harvey Mudd Biophotonics Lab where he and a group of talented undergraduate students leverage optics to build tools for biomedicine and optics education. He is the recipient of several external awards, including an NSF CAREER and NSF Engineering Research Initiation award. When he is not in the classroom, next to the optics table, or spending time with his family, you can find him behind the keyboard typing his latest manifesto on technology, education, and human flourishing for his weekly Substack newsletter, The Absent-Minded Professor, which you can find at joshbrake.substack.com."
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Quarto Portfolio Website",
+    "section": "",
+    "text": "Example Project 1\n\n\n\n\n\nThe kit for MicroPs\n\n\n\n\n\nJul 15, 2024\n\n\nJosh Brake\n\n\n\n\n\n\n\n\n\n\n\n\nExample Project 2\n\n\n\n\n\n\n\n\n\n\n\nJosh Brake\n\n\n\n\n\n\n\n\n\n\n\n\nTemplate Project Page\n\n\n\n\n\nThis is a description\n\n\n\n\n\nNov 11, 2024\n\n\nJosh Brake\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/example-project-1/index.html#problem-statement",
+    "href": "projects/example-project-1/index.html#problem-statement",
+    "title": "Example Project 1",
+    "section": "Problem Statement",
+    "text": "Problem Statement"
+  },
+  {
+    "objectID": "projects/example-project-1/index.html#project-goals-and-objectives",
+    "href": "projects/example-project-1/index.html#project-goals-and-objectives",
+    "title": "Example Project 1",
+    "section": "Project Goals and Objectives",
+    "text": "Project Goals and Objectives"
+  },
+  {
+    "objectID": "projects/example-project-1/index.html#process-and-approach",
+    "href": "projects/example-project-1/index.html#process-and-approach",
+    "title": "Example Project 1",
+    "section": "Process and Approach",
+    "text": "Process and Approach"
+  },
+  {
+    "objectID": "projects/example-project-1/index.html#key-challenges",
+    "href": "projects/example-project-1/index.html#key-challenges",
+    "title": "Example Project 1",
+    "section": "Key Challenges",
+    "text": "Key Challenges"
+  },
+  {
+    "objectID": "projects/example-project-1/index.html#key-features-deliverables",
+    "href": "projects/example-project-1/index.html#key-features-deliverables",
+    "title": "Example Project 1",
+    "section": "Key Features / Deliverables",
+    "text": "Key Features / Deliverables"
+  },
+  {
+    "objectID": "projects/example-project-1/index.html#technologies-and-tools-used",
+    "href": "projects/example-project-1/index.html#technologies-and-tools-used",
+    "title": "Example Project 1",
+    "section": "Technologies and Tools Used",
+    "text": "Technologies and Tools Used"
+  },
+  {
+    "objectID": "projects/example-project-1/index.html#team-and-your-role",
+    "href": "projects/example-project-1/index.html#team-and-your-role",
+    "title": "Example Project 1",
+    "section": "Team and Your Role",
+    "text": "Team and Your Role"
+  },
+  {
+    "objectID": "projects/example-project-1/index.html#design-process",
+    "href": "projects/example-project-1/index.html#design-process",
+    "title": "Example Project 1",
+    "section": "Design Process",
+    "text": "Design Process"
+  },
+  {
+    "objectID": "projects/example-project-1/index.html#outcome-results",
+    "href": "projects/example-project-1/index.html#outcome-results",
+    "title": "Example Project 1",
+    "section": "Outcome / Results",
+    "text": "Outcome / Results"
+  },
+  {
+    "objectID": "projects/example-project-1/index.html#impact-and-reflection",
+    "href": "projects/example-project-1/index.html#impact-and-reflection",
+    "title": "Example Project 1",
+    "section": "Impact and Reflection",
+    "text": "Impact and Reflection"
+  },
+  {
+    "objectID": "projects/example-project-1/index.html#future-improvements",
+    "href": "projects/example-project-1/index.html#future-improvements",
+    "title": "Example Project 1",
+    "section": "Future Improvements",
+    "text": "Future Improvements"
+  },
+  {
+    "objectID": "projects/example-project-1/index.html#testimonials-feedback",
+    "href": "projects/example-project-1/index.html#testimonials-feedback",
+    "title": "Example Project 1",
+    "section": "Testimonials / Feedback",
+    "text": "Testimonials / Feedback"
+  },
+  {
+    "objectID": "projects/example-project-1/index.html#project-timeline",
+    "href": "projects/example-project-1/index.html#project-timeline",
+    "title": "Example Project 1",
+    "section": "Project Timeline",
+    "text": "Project Timeline"
+  },
+  {
+    "objectID": "projects/example-project-1/index.html#call-to-action",
+    "href": "projects/example-project-1/index.html#call-to-action",
+    "title": "Example Project 1",
+    "section": "Call to Action",
+    "text": "Call to Action"
+  },
+  {
+    "objectID": "posts/first-post.html",
+    "href": "posts/first-post.html",
+    "title": "Hello Quarto",
+    "section": "",
+    "text": "Testing blog."
+  },
+  {
+    "objectID": "projects/template/index.html#project-goals-and-objectives",
+    "href": "projects/template/index.html#project-goals-and-objectives",
+    "title": "Template Project Page",
+    "section": "Project Goals and Objectives",
+    "text": "Project Goals and Objectives"
+  },
+  {
+    "objectID": "projects/template/index.html#process-and-approach",
+    "href": "projects/template/index.html#process-and-approach",
+    "title": "Template Project Page",
+    "section": "Process and Approach",
+    "text": "Process and Approach\n\nKey Challenges\n\n\nKey Features / Deliverables\n\n\nTechnologies and Tools Used"
+  },
+  {
+    "objectID": "projects/template/index.html#team-and-your-role",
+    "href": "projects/template/index.html#team-and-your-role",
+    "title": "Template Project Page",
+    "section": "Team and Your Role",
+    "text": "Team and Your Role"
+  },
+  {
+    "objectID": "projects/template/index.html#design-process",
+    "href": "projects/template/index.html#design-process",
+    "title": "Template Project Page",
+    "section": "Design Process",
+    "text": "Design Process"
+  },
+  {
+    "objectID": "projects/template/index.html#outcome-results",
+    "href": "projects/template/index.html#outcome-results",
+    "title": "Template Project Page",
+    "section": "Outcome / Results",
+    "text": "Outcome / Results"
+  },
+  {
+    "objectID": "projects/template/index.html#impact-and-reflection",
+    "href": "projects/template/index.html#impact-and-reflection",
+    "title": "Template Project Page",
+    "section": "Impact and Reflection",
+    "text": "Impact and Reflection"
+  },
+  {
+    "objectID": "projects/template/index.html#future-improvements",
+    "href": "projects/template/index.html#future-improvements",
+    "title": "Template Project Page",
+    "section": "Future Improvements",
+    "text": "Future Improvements"
+  },
+  {
+    "objectID": "projects/template/index.html#testimonials-feedback",
+    "href": "projects/template/index.html#testimonials-feedback",
+    "title": "Template Project Page",
+    "section": "Testimonials / Feedback",
+    "text": "Testimonials / Feedback"
+  },
+  {
+    "objectID": "projects/template/index.html#project-timeline",
+    "href": "projects/template/index.html#project-timeline",
+    "title": "Template Project Page",
+    "section": "Project Timeline",
+    "text": "Project Timeline"
+  },
+  {
+    "objectID": "slides/index.html#you-need-to-maximize-your-luck-surface-area",
+    "href": "slides/index.html#you-need-to-maximize-your-luck-surface-area",
+    "title": "Why You Need a Portfolio Website",
+    "section": "You need to maximize your luck surface area",
+    "text": "You need to maximize your luck surface area\n\nA mathematical illustration of luck surface area.Modified from “Let It Rip”."
+  },
+  {
+    "objectID": "slides/index.html#a-portfolio-offers-you-an-outlet-to-share-your-work",
+    "href": "slides/index.html#a-portfolio-offers-you-an-outlet-to-share-your-work",
+    "title": "Why You Need a Portfolio Website",
+    "section": "A portfolio offers you an outlet to share your work",
+    "text": "A portfolio offers you an outlet to share your work\nA portfolio has many benefits:\n\n\nThe best credential (look what I’ve done)\nA demonstration of growth\nA place for others to find you"
+  },
+  {
+    "objectID": "slides/index.html#components-of-your-portfolio-website",
+    "href": "slides/index.html#components-of-your-portfolio-website",
+    "title": "Why You Need a Portfolio Website",
+    "section": "Components of Your Portfolio Website",
+    "text": "Components of Your Portfolio Website\nAt minimum, your portfolio website should have:\n\n\nHome/About Me page\nLinks to other profiles on the web (e.g., LinkedIn)\nA copy to a PDF of your resume\nA page with a list of your projects\n\n\n\nYou could also consider including some other things:\n\nBlog\nPage with hobbies"
+  },
+  {
+    "objectID": "slides/index.html#where-to-start",
+    "href": "slides/index.html#where-to-start",
+    "title": "Why You Need a Portfolio Website",
+    "section": "Where to start",
+    "text": "Where to start\n\nBrief biographical blurb\n\nWho are you?\nWhere did you come from?\nWhat is your personal mission (what you do now) and vision (who you want to become)?\n\n\n\n\nProjects\n\nList of projects you’ve worked on\nA short description of the project\nPhotos/videos"
+  },
+  {
+    "objectID": "slides/index.html#how-to-make-your-website",
+    "href": "slides/index.html#how-to-make-your-website",
+    "title": "Why You Need a Portfolio Website",
+    "section": "How to make your website",
+    "text": "How to make your website\nThere are many different options you could use to create your portfolio website.\n\n\n\n\n\n\n\n\n\nPaid vs. Free\nFancy vs. Fragile"
+  },
+  {
+    "objectID": "slides/index.html#quarto",
+    "href": "slides/index.html#quarto",
+    "title": "Why You Need a Portfolio Website",
+    "section": "Quarto",
+    "text": "Quarto\n\n\n\nWhat is Quarto?\nWhy should you use Quarto?\nHow do you get started with Quarto?"
+  },
+  {
+    "objectID": "slides/index.html#setup",
+    "href": "slides/index.html#setup",
+    "title": "Why You Need a Portfolio Website",
+    "section": "Setup",
+    "text": "Setup\n\nDownload Quarto\nSet up Github\nGetting your github.io site setup"
+  },
+  {
+    "objectID": "slides/index.html#the-structure-of-a-quarto-site",
+    "href": "slides/index.html#the-structure-of-a-quarto-site",
+    "title": "Why You Need a Portfolio Website",
+    "section": "The Structure of a Quarto Site",
+    "text": "The Structure of a Quarto Site\n\n\n\n_quarto.yml\nindex.qmd\nOther pages and folders\n\n\nproject:\n  type: website\n\nwebsite:\n  title: \"Quarto Portfolio Website\"\n  navbar:\n    left:\n      - href: index.qmd\n        text: Home\n      - href: projects/\n        text: Projects\n      - href: blog.qmd\n        text: Blog\n\nformat:\n  html:\n    theme: cosmo\n    css: styles.css\n    toc: true"
+  },
+  {
+    "objectID": "slides/index.html#the-quarto-development-flow",
+    "href": "slides/index.html#the-quarto-development-flow",
+    "title": "Why You Need a Portfolio Website",
+    "section": "The Quarto Development Flow",
+    "text": "The Quarto Development Flow\n\nWrite code\nPreview\nRevise\nRender\nPublish"
+  },
+  {
+    "objectID": "slides/index.html#steps-to-build-your-portfolio",
+    "href": "slides/index.html#steps-to-build-your-portfolio",
+    "title": "Why You Need a Portfolio Website",
+    "section": "Steps to build your portfolio",
+    "text": "Steps to build your portfolio\n\nCreate a new quarto project\nConfigure _quarto.yml\nCreate structure\nAdd files and write pages\nRender locally\nCommit to version control (Git)\nPublish to Github Pages"
+  },
+  {
+    "objectID": "slides/index.html#create-new-quarto-project",
+    "href": "slides/index.html#create-new-quarto-project",
+    "title": "Why You Need a Portfolio Website",
+    "section": "Create new quarto project",
+    "text": "Create new quarto project\n\nCreate a new folder &lt;github_username&gt;.github.io.\nOpen VS Code, open that new folder you created, and open a new terminal (Terminal &gt; New Terminal).\nRun quarto create.\nFollow the prompts to select the options as shown below. Note that ./ will create the project in your current directory.\n\n(base) joshbrake@computer % quarto create\n? Create › project\n? Type › website\n? Directory › ./\n? Title (./) › Demo\nCreating project at /Users/joshbrake/dev/temp/:\n  - Created _quarto.yml\n  - Created index.qmd\n  - Created about.qmd\n  - Created styles.css"
+  },
+  {
+    "objectID": "slides/index.html#render-your-new-site",
+    "href": "slides/index.html#render-your-new-site",
+    "title": "Why You Need a Portfolio Website",
+    "section": "Render your new site",
+    "text": "Render your new site\nOnce you create your Quarto project you can preview it immediately to see what it looks like.\nquarto preview\nBy default, this will render the entire site and then open a browser to preview it. If you want to preview a specific file, you can include it after the command. (e.g. quarto preview &lt;filename&gt;.qmd)"
+  },
+  {
+    "objectID": "slides/index.html#customizing-your-site",
+    "href": "slides/index.html#customizing-your-site",
+    "title": "Why You Need a Portfolio Website",
+    "section": "Customizing your site",
+    "text": "Customizing your site\nNext, we’ll customize the site.\n\nModify file structure to add pages\nModify _quarto.yml"
+  },
+  {
+    "objectID": "slides/index.html#modifying-the-file-structure",
+    "href": "slides/index.html#modifying-the-file-structure",
+    "title": "Why You Need a Portfolio Website",
+    "section": "Modifying the file structure",
+    "text": "Modifying the file structure\n\n\n\nYou can organize your files however you would like, but choosing a regular file structure will be very helpful. I recommend the following general structure.\n\n.gitignore file: Includes the files to leave untracked in version control.\nblog.qmd: will load blog post from posts/ folder\n_site/: auto-generated by Quarto, you don’t need to create this folder. You should add it to your .gitignore.\nprojects/: folder to organize projects.\nprojects/index.qmd: page to display and list projects.\nimages/: folder(s) to store images for your site and pages. Best to keep organized in the relevant folder (e.g., per project).\n\n\n\nSample project directory structure\n├── .gitignore\n├── README.md\n├── _quarto.yml\n├── _site\n│   └── ...\n├── blog.qmd\n├── images\n│   └── headshot.jpeg\n├── index.qmd\n├── posts\n│   └── first-post.qmd\n├── projects\n│   ├── example-project-1\n│   │   ├── images\n│   │   │   └── e155-kit.jpeg\n│   │   └── index.qmd\n│   ├── example-project-2\n│   │   ├── images\n│   │   └── index.qmd\n│   ├── index.qmd\n│   └── template\n│       ├── images\n│       └── index.qmd"
+  },
+  {
+    "objectID": "slides/index.html#creating-your-homepage",
+    "href": "slides/index.html#creating-your-homepage",
+    "title": "Why You Need a Portfolio Website",
+    "section": "Creating your homepage",
+    "text": "Creating your homepage\n\n\n\nOpen index.qmd at the project root. This is your homepage.\nCreate the following frontmatter structure, replacing the information with yours.\nWrite a brief biographical blurb for yourself (you can easily change this later).\nRun quarto preview to check your updates.\n\n\n---\ntitle: \"Josh Brake\"\nimage: images/headshot.jpeg # replace with the link to your headshot\nabout:\n  template: jolla # see additional templates here https://quarto.org/docs/websites/website-about.html\n  links:  # add links to your various social profiles\n    - icon: substack\n      text: Substack\n      href: https://joshbrake.substack.com\n    - icon: linkedin\n      text: LinkedIn\n      href: https://www.linkedin.com/in/jbrake\n    - icon: github\n      text: Github\n      href: https://github.com/joshbrake\n---\n\nEnter your biography blurb here."
+  },
+  {
+    "objectID": "slides/index.html#add-a-project-page",
+    "href": "slides/index.html#add-a-project-page",
+    "title": "Why You Need a Portfolio Website",
+    "section": "Add a project page",
+    "text": "Add a project page\n\n\nNext let’s add a project page.\nCreate a new subfolder under your projects/ folder. Name it a descriptive name for one of your projects (e.g., E80-robot/). Try to avoid spaces. Create two additional items within the folder:\n\nimages/: this will hold the images for your project.\nindex.qmd: this will be the project page.\n\nAfter you finish, your directory structure should look like what’s on the right.\n\n.\n├── projects\n│   ├──E80-robot\n│   │  ├── images/\n│   │  └── index.qmd"
+  },
+  {
+    "objectID": "slides/index.html#writing-a-page",
+    "href": "slides/index.html#writing-a-page",
+    "title": "Why You Need a Portfolio Website",
+    "section": "Writing a Page",
+    "text": "Writing a Page\nAll documents in Quarto are written as Markdown. It’s an easy format for writing text. Here are a few specific formatting tips to keep in mind.\n\nHTML Heading levels: # -&gt; &lt;h1&gt;, ## -&gt; &lt;h2&gt;, ### -&gt; &lt;h3&gt;,\nImages: ![alt text](link)\nFigures: ::: {#fig-&lt;label-here&gt;} :::\nReferences: @fig-&lt;label-here&gt;\n\nFigures\nHeadings\n\nCode blocks: Enclose between triple backticks ``` ```"
+  },
+  {
+    "objectID": "slides/index.html#creating-a-page-for-your-project",
+    "href": "slides/index.html#creating-a-page-for-your-project",
+    "title": "Why You Need a Portfolio Website",
+    "section": "Creating a page for your project",
+    "text": "Creating a page for your project\nOpen the index.qmd page you just created inside your E80-robot folder and add the following.\nFeel free to customize the headings as you like.\n---\ntitle: E80 Robot\nauthor: Josh Brake\ndate: 2024-11-11\nimage: images/ # A url to image here.\ndescription: This is a description # Short description of the project to be shown on overview page.\n---\n\n## Problem Statement\n\n## Project Goals and Objectives\n\n## Process and Approach\n\n## Results\n\n## Impact and Reflection\n\n## Future Improvements"
+  },
+  {
+    "objectID": "slides/index.html#adding-text-and-images-to-your-project-page",
+    "href": "slides/index.html#adding-text-and-images-to-your-project-page",
+    "title": "Why You Need a Portfolio Website",
+    "section": "Adding text and images to your project page",
+    "text": "Adding text and images to your project page\nNow we’ll add some text and images to our project page. First, copy a photo into the images/ subfolder. Then, edit the index.qmd page inside your project folder to display it.\n\n\n...\n\n## Problem Statement\n\n::: {#fig-replace-with-label}\n![Alt text here](images/dana-point.jpeg)\n\nOptional figure text here\n:::\n\n@fig-replace-with-label shows an image of the dock at Dana Point.\n\n...\n\n\n\nSee Quarto docs on figures for more information.\n\nBonus tip: You can style inline with css by putting the css in curly braces after the image link. For example, to change the width to 400 pixels:\n![](images/dana-point.jpeg){width=400px}."
+  },
+  {
+    "objectID": "slides/index.html#creating-projects-overview-page",
+    "href": "slides/index.html#creating-projects-overview-page",
+    "title": "Why You Need a Portfolio Website",
+    "section": "Creating projects overview page",
+    "text": "Creating projects overview page\nThe last thing we need to do before we publish our site with the minimal setup is create a project overview page. To do this, open projects/index.qmd and add the following text.\n---\ntitle: Projects\n---\n\n## E80 Robot\n\n::::: {.columns}\n::: {.column}\nE80: Experimental Engineering is a sophomore engineering class at Harvey Mudd College.\nCheck out the robot I built by following the link [here](E80-robot/).\n:::\n::: {.column}\n![](E80-robot/images/)\n:::\n:::::\n\n## Project #2"
+  },
+  {
+    "objectID": "slides/index.html#customizing-_quarto.yml",
+    "href": "slides/index.html#customizing-_quarto.yml",
+    "title": "Why You Need a Portfolio Website",
+    "section": "Customizing _quarto.yml",
+    "text": "Customizing _quarto.yml\n\n\nAfter you add the pages\n\nproject:\n  type: website\n\nwebsite:\n  title: \"Quarto Portfolio Website\"\n  navbar:\n    left:\n      - href: index.qmd\n        text: Home\n      - href: projects/\n        text: Projects\n      - href: blog.qmd\n        text: Blog\n\nformat:\n  html:\n    theme: cosmo\n    css: styles.css\n    toc: true"
+  },
+  {
+    "objectID": "slides/index.html#quarto-publish",
+    "href": "slides/index.html#quarto-publish",
+    "title": "Why You Need a Portfolio Website",
+    "section": "Quarto Publish",
+    "text": "Quarto Publish\nOnce you have your site ready and it’s rendering properly locally, it’s time to publish it to the web. To do this, we’ll use the quarto publish command. Details can be found here.\nFirst we need to commit all of our changes to the Git repository. To do this, open Github Desktop, add all the files for your website, and then commit them. Once you do this, push to the remote."
+  },
+  {
+    "objectID": "slides/index.html#setting-up-github-pages",
+    "href": "slides/index.html#setting-up-github-pages",
+    "title": "Why You Need a Portfolio Website",
+    "section": "Setting up Github pages",
+    "text": "Setting up Github pages\nThen, we need to setup the Github repo to render the site from the gh_pages branch.\nIf it’s a fresh directory, you won’t have a gh_pages branch. So, first we need to create an empty one. To do so, run the following code:\ngit checkout --orphan gh-pages\ngit reset --hard # make sure all changes are committed before running this!\ngit commit --allow-empty -m \"Initialising gh-pages branch\"\ngit push origin gh-pages\nAfter you finish this, go back to the main branch by running git checkout main. This must be completed before you run quarto publish!"
+  },
+  {
+    "objectID": "slides/index.html#publishing",
+    "href": "slides/index.html#publishing",
+    "title": "Why You Need a Portfolio Website",
+    "section": "Publishing",
+    "text": "Publishing\nOnce you’ve completed these steps, login to your Github repository and configure Github Pages to render the site from the gh_pages branch."
+  },
+  {
+    "objectID": "slides/index.html#buy-your-own-domain-name",
+    "href": "slides/index.html#buy-your-own-domain-name",
+    "title": "Why You Need a Portfolio Website",
+    "section": "Buy Your Own Domain Name",
+    "text": "Buy Your Own Domain Name\nA personal domain is well worth your investment. It will cost you at least $20-40 a year, but it will give you a nice spot for your web presence and also a nice email.\n\nGo with a .com if it’s available. (could also consider .me as well)"
+  },
+  {
+    "objectID": "slides/index.html#hosting",
+    "href": "slides/index.html#hosting",
+    "title": "Why You Need a Portfolio Website",
+    "section": "Hosting",
+    "text": "Hosting\nThe domain name just gives you a DNS entry but you also need a server with an IP to point that DNS entry to. A few options:\n\nHost on Github pages and direct your domain there.\nSelf host\nHost with a conventional web hosting company\nHost on a VPS"
+  },
+  {
+    "objectID": "slides/index.html#some-other-tools",
+    "href": "slides/index.html#some-other-tools",
+    "title": "Why You Need a Portfolio Website",
+    "section": "Some other tools",
+    "text": "Some other tools\nVS Code tools\n\nMarkdown extension: Can help you easily paste in images, automatically update filenames when you change them.\nSnippets: pieces of code that template commonly used code constructs."
+  },
+  {
+    "objectID": "slides/index.html#conclusion",
+    "href": "slides/index.html#conclusion",
+    "title": "Why You Need a Portfolio Website",
+    "section": "Conclusion",
+    "text": "Conclusion\n\nA mathematical illustration of luck surface area.Modified from “Let It Rip”."
+  }
+]

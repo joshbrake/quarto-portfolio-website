@@ -1,0 +1,16 @@
+[
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/posts/first-post.html"
+    ]
+  },
+  {
+    "listing": "/projects/index.html",
+    "items": [
+      "/projects/example-project-1/index.html",
+      "/projects/example-project-2/index.html",
+      "/projects/template/index.html"
+    ]
+  }
+]

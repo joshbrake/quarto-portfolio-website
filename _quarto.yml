@@ -7,6 +7,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: workshop/
+        text: Make Your Own
       - href: slides/
         text: Workshop Slides
 

@@ -1,0 +1,35 @@
+---
+title: How to Make Your Own Portfolio Website Using Quarto
+---
+
+## Why to make a portfolio website?
+
+A portfolio website is a great way to maximize your luck surface area.
+If you do a lot of great stuff but nobody knows about it, it's significantly less valuable to you and to others.
+A portfolio website helps to remedy that situation by creating a venue for you to show your work.
+
+The mathematical below demonstrates why I think this is important.
+The blog post linked below gives a deeper explanation.
+
+![A mathematical illustration of luck surface area.](/slides/images/doing-vs-sharing.png)
+
+Modified from "[Let It Rip](https://joshbrake.substack.com/p/let-it-rip)".
+
+## How to Make It
+
+This [slide deck](/slides/) walks you through how to create your portfolio website using a open-source scientific publishing tool called [Quarto](https://quarto.org/).
+There are many different tools and platforms available and you should just pick one rather than spend too much time deliberating.
+However, I like Quarto for several reasons:
+
+- All the code for your website is written in [Markdown](https://www.markdownguide.org/).
+- The markdown format makes it very amenable to tracking in a version control tool like Git.
+- You can easily publish for free on Github Pages with a one-liner from the command line.
+- Quarto handles math formatting, figure captions, and references with ease.
+
+## How to Publish It
+
+The trickiest part of making your portfolio website is the last step of getting it live on the web.
+I've recorded a quick video tutorial below to show you how.
+The [Quarto docs](https://quarto.org/docs/publishing/github-pages.html) are also very helpful resource on this point.
+
+<div style="position: relative; padding-bottom: 64.81149012567326%; height: 0;"><iframe src="https://www.loom.com/embed/dfaa848f069f4e24aa40901d79238865?sid=f55a3c88-8c94-4eaa-9d85-e6f8492bb77c" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>

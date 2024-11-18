@@ -119,6 +119,34 @@
     "text": "Call to Action"
   },
   {
+    "objectID": "workshop/index.html",
+    "href": "workshop/index.html",
+    "title": "How to Make Your Own Portfolio Website Using Quarto",
+    "section": "",
+    "text": "A portfolio website is a great way to maximize your luck surface area. If you do a lot of great stuff but nobody knows about it, it’s significantly less valuable to you and to others. A portfolio website helps to remedy that situation by creating a venue for you to show your work.\nThe mathematical below demonstrates why I think this is important. The blog post linked below gives a deeper explanation.\n\n\n\nA mathematical illustration of luck surface area.\n\n\nModified from “Let It Rip”."
+  },
+  {
+    "objectID": "workshop/index.html#why-to-make-a-portfolio-website",
+    "href": "workshop/index.html#why-to-make-a-portfolio-website",
+    "title": "How to Make Your Own Portfolio Website Using Quarto",
+    "section": "",
+    "text": "A portfolio website is a great way to maximize your luck surface area. If you do a lot of great stuff but nobody knows about it, it’s significantly less valuable to you and to others. A portfolio website helps to remedy that situation by creating a venue for you to show your work.\nThe mathematical below demonstrates why I think this is important. The blog post linked below gives a deeper explanation.\n\n\n\nA mathematical illustration of luck surface area.\n\n\nModified from “Let It Rip”."
+  },
+  {
+    "objectID": "workshop/index.html#how-to-make-it",
+    "href": "workshop/index.html#how-to-make-it",
+    "title": "How to Make Your Own Portfolio Website Using Quarto",
+    "section": "How to Make It",
+    "text": "How to Make It\nThis slide deck walks you through how to create your portfolio website using a open-source scientific publishing tool called Quarto. There are many different tools and platforms available and you should just pick one rather than spend too much time deliberating. However, I like Quarto for several reasons:\n\nAll the code for your website is written in Markdown.\nThe markdown format makes it very amenable to tracking in a version control tool like Git.\nYou can easily publish for free on Github Pages with a one-liner from the command line.\nQuarto handles math formatting, figure captions, and references with ease."
+  },
+  {
+    "objectID": "workshop/index.html#how-to-publish-it",
+    "href": "workshop/index.html#how-to-publish-it",
+    "title": "How to Make Your Own Portfolio Website Using Quarto",
+    "section": "How to Publish It",
+    "text": "How to Publish It\nThe trickiest part of making your portfolio website is the last step of getting it live on the web. I’ve recorded a quick video tutorial below to show you how. The Quarto docs are also very helpful resource on this point."
+  },
+  {
     "objectID": "posts/first-post.html",
     "href": "posts/first-post.html",
     "title": "Hello Quarto",

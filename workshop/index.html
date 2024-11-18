@@ -6,11 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Josh Brake">
-<meta name="dcterms.date" content="2024-07-15">
-<meta name="description" content="The kit for MicroPs">
 
-<title>Example Project 1 – Quarto Portfolio Website</title>
+<title>How to Make Your Own Portfolio Website Using Quarto – Quarto Portfolio Website</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -26,22 +23,22 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../../">
-<script src="../../site_libs/quarto-html/quarto.js"></script>
-<script src="../../site_libs/quarto-html/popper.min.js"></script>
-<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -71,7 +68,7 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<link rel="stylesheet" href="../../styles.css">
+<link rel="stylesheet" href="../styles.css">
 </head>
 
 <body class="nav-fixed">
@@ -81,7 +78,7 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="../../index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Quarto Portfolio Website</span>
     </a>
   </div>
@@ -92,15 +89,15 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../index.html"> 
+    <a class="nav-link" href="../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../workshop/"> 
+    <a class="nav-link" href="../workshop/"> 
 <span class="menu-text">Make Your Own</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../slides/"> 
+    <a class="nav-link" href="../slides/"> 
 <span class="menu-text">Workshop Slides</span></a>
   </li>  
 </ul>
@@ -119,21 +116,9 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#project-title-and-short-description" id="toc-project-title-and-short-description" class="nav-link active" data-scroll-target="#project-title-and-short-description">Project Title and Short Description</a></li>
-  <li><a href="#problem-statement" id="toc-problem-statement" class="nav-link" data-scroll-target="#problem-statement">Problem Statement</a></li>
-  <li><a href="#project-goals-and-objectives" id="toc-project-goals-and-objectives" class="nav-link" data-scroll-target="#project-goals-and-objectives">Project Goals and Objectives</a></li>
-  <li><a href="#process-and-approach" id="toc-process-and-approach" class="nav-link" data-scroll-target="#process-and-approach">Process and Approach</a></li>
-  <li><a href="#key-challenges" id="toc-key-challenges" class="nav-link" data-scroll-target="#key-challenges">Key Challenges</a></li>
-  <li><a href="#key-features-deliverables" id="toc-key-features-deliverables" class="nav-link" data-scroll-target="#key-features-deliverables">Key Features / Deliverables</a></li>
-  <li><a href="#technologies-and-tools-used" id="toc-technologies-and-tools-used" class="nav-link" data-scroll-target="#technologies-and-tools-used">Technologies and Tools Used</a></li>
-  <li><a href="#team-and-your-role" id="toc-team-and-your-role" class="nav-link" data-scroll-target="#team-and-your-role">Team and Your Role</a></li>
-  <li><a href="#design-process" id="toc-design-process" class="nav-link" data-scroll-target="#design-process">Design Process</a></li>
-  <li><a href="#outcome-results" id="toc-outcome-results" class="nav-link" data-scroll-target="#outcome-results">Outcome / Results</a></li>
-  <li><a href="#impact-and-reflection" id="toc-impact-and-reflection" class="nav-link" data-scroll-target="#impact-and-reflection">Impact and Reflection</a></li>
-  <li><a href="#future-improvements" id="toc-future-improvements" class="nav-link" data-scroll-target="#future-improvements">Future Improvements</a></li>
-  <li><a href="#testimonials-feedback" id="toc-testimonials-feedback" class="nav-link" data-scroll-target="#testimonials-feedback">Testimonials / Feedback</a></li>
-  <li><a href="#project-timeline" id="toc-project-timeline" class="nav-link" data-scroll-target="#project-timeline">Project Timeline</a></li>
-  <li><a href="#call-to-action" id="toc-call-to-action" class="nav-link" data-scroll-target="#call-to-action">Call to Action</a></li>
+  <li><a href="#why-to-make-a-portfolio-website" id="toc-why-to-make-a-portfolio-website" class="nav-link active" data-scroll-target="#why-to-make-a-portfolio-website">Why to make a portfolio website?</a></li>
+  <li><a href="#how-to-make-it" id="toc-how-to-make-it" class="nav-link" data-scroll-target="#how-to-make-it">How to Make It</a></li>
+  <li><a href="#how-to-publish-it" id="toc-how-to-publish-it" class="nav-link" data-scroll-target="#how-to-publish-it">How to Publish It</a></li>
   </ul>
 </nav>
     </div>
@@ -142,31 +127,14 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Example Project 1</h1>
+<h1 class="title">How to Make Your Own Portfolio Website Using Quarto</h1>
 </div>
 
-<div>
-  <div class="description">
-    The kit for MicroPs
-  </div>
-</div>
 
 
 <div class="quarto-title-meta">
 
-    <div>
-    <div class="quarto-title-meta-heading">Author</div>
-    <div class="quarto-title-meta-contents">
-             <p>Josh Brake </p>
-          </div>
-  </div>
     
-    <div>
-    <div class="quarto-title-meta-heading">Published</div>
-    <div class="quarto-title-meta-contents">
-      <p class="date">July 15, 2024</p>
-    </div>
-  </div>
   
     
   </div>
@@ -176,50 +144,35 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="project-title-and-short-description" class="level2">
-<h2 class="anchored" data-anchor-id="project-title-and-short-description">Project Title and Short Description</h2>
+<section id="why-to-make-a-portfolio-website" class="level2">
+<h2 class="anchored" data-anchor-id="why-to-make-a-portfolio-website">Why to make a portfolio website?</h2>
+<p>A portfolio website is a great way to maximize your luck surface area. If you do a lot of great stuff but nobody knows about it, it’s significantly less valuable to you and to others. A portfolio website helps to remedy that situation by creating a venue for you to show your work.</p>
+<p>The mathematical below demonstrates why I think this is important. The blog post linked below gives a deeper explanation.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../slides/images/doing-vs-sharing.png" class="img-fluid figure-img"></p>
+<figcaption>A mathematical illustration of luck surface area.</figcaption>
+</figure>
+</div>
+<p>Modified from “<a href="https://joshbrake.substack.com/p/let-it-rip">Let It Rip</a>”.</p>
 </section>
-<section id="problem-statement" class="level2">
-<h2 class="anchored" data-anchor-id="problem-statement">Problem Statement</h2>
+<section id="how-to-make-it" class="level2">
+<h2 class="anchored" data-anchor-id="how-to-make-it">How to Make It</h2>
+<p>This <a href="../slides/">slide deck</a> walks you through how to create your portfolio website using a open-source scientific publishing tool called <a href="https://quarto.org/">Quarto</a>. There are many different tools and platforms available and you should just pick one rather than spend too much time deliberating. However, I like Quarto for several reasons:</p>
+<ul>
+<li>All the code for your website is written in <a href="https://www.markdownguide.org/">Markdown</a>.</li>
+<li>The markdown format makes it very amenable to tracking in a version control tool like Git.</li>
+<li>You can easily publish for free on Github Pages with a one-liner from the command line.</li>
+<li>Quarto handles math formatting, figure captions, and references with ease.</li>
+</ul>
 </section>
-<section id="project-goals-and-objectives" class="level2">
-<h2 class="anchored" data-anchor-id="project-goals-and-objectives">Project Goals and Objectives</h2>
-</section>
-<section id="process-and-approach" class="level2">
-<h2 class="anchored" data-anchor-id="process-and-approach">Process and Approach</h2>
-</section>
-<section id="key-challenges" class="level2">
-<h2 class="anchored" data-anchor-id="key-challenges">Key Challenges</h2>
-</section>
-<section id="key-features-deliverables" class="level2">
-<h2 class="anchored" data-anchor-id="key-features-deliverables">Key Features / Deliverables</h2>
-</section>
-<section id="technologies-and-tools-used" class="level2">
-<h2 class="anchored" data-anchor-id="technologies-and-tools-used">Technologies and Tools Used</h2>
-</section>
-<section id="team-and-your-role" class="level2">
-<h2 class="anchored" data-anchor-id="team-and-your-role">Team and Your Role</h2>
-</section>
-<section id="design-process" class="level2">
-<h2 class="anchored" data-anchor-id="design-process">Design Process</h2>
-</section>
-<section id="outcome-results" class="level2">
-<h2 class="anchored" data-anchor-id="outcome-results">Outcome / Results</h2>
-</section>
-<section id="impact-and-reflection" class="level2">
-<h2 class="anchored" data-anchor-id="impact-and-reflection">Impact and Reflection</h2>
-</section>
-<section id="future-improvements" class="level2">
-<h2 class="anchored" data-anchor-id="future-improvements">Future Improvements</h2>
-</section>
-<section id="testimonials-feedback" class="level2">
-<h2 class="anchored" data-anchor-id="testimonials-feedback">Testimonials / Feedback</h2>
-</section>
-<section id="project-timeline" class="level2">
-<h2 class="anchored" data-anchor-id="project-timeline">Project Timeline</h2>
-</section>
-<section id="call-to-action" class="level2">
-<h2 class="anchored" data-anchor-id="call-to-action">Call to Action</h2>
+<section id="how-to-publish-it" class="level2">
+<h2 class="anchored" data-anchor-id="how-to-publish-it">How to Publish It</h2>
+<p>The trickiest part of making your portfolio website is the last step of getting it live on the web. I’ve recorded a quick video tutorial below to show you how. The <a href="https://quarto.org/docs/publishing/github-pages.html">Quarto docs</a> are also very helpful resource on this point.</p>
+<div style="position: relative; padding-bottom: 64.81149012567326%; height: 0;">
+<iframe src="https://www.loom.com/embed/dfaa848f069f4e24aa40901d79238865?sid=f55a3c88-8c94-4eaa-9d85-e6f8492bb77c" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+</iframe>
+</div>
 
 
 </section>
